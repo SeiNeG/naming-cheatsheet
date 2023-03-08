@@ -25,7 +25,11 @@ Naming things is hard. This sheet attempts to make it easier.
 
 Although these suggestions can be applied to any programming language, I will use JavaScript to illustrate them in practice.
 
+<<<<<<< HEAD
 ## English language222
+=======
+## English language111
+>>>>>>> branch1
 
 Use English language when naming your variables and functions.
 
